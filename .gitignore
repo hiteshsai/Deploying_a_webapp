@@ -2,3 +2,10 @@
 terraform_files/.terraform/
 terraform_files/terraform.tfstate
 terraform_files/terraform.tfstate.backup
+.DS_Store
+terraform_files/.DS_Store
+terraform_files/controlserver/.DS_Store
+terraform_files/webservers/.DS_Store
+terraform_files/webservers/.terraform/
+terraform_files/webservers/terraform.tfstate
+terraform_files/webservers/terraform.tfstate.backup
