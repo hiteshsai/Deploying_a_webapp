@@ -1,0 +1,4 @@
+.idea/
+terraform_files/.terraform/
+terraform_files/terraform.tfstate
+terraform_files/terraform.tfstate.backup
